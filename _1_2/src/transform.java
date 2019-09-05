@@ -1,4 +1,3 @@
-package _1_2;
 
 /*
 ID: joannek1

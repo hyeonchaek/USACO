@@ -4,7 +4,6 @@ LANG: JAVA
 TASK: milk
  */
 
-package _1_2;
 
 import java.util.*;
 import java.io.*;

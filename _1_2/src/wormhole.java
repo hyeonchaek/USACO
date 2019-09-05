@@ -3,7 +3,6 @@ ID: joannek1
 LANG: JAVA
 TASK: wormhole
 */
-package _1_2;
 
 import java.util.*;
 import java.io.*;
